@@ -1,0 +1,38 @@
+digraph Node_Shapes {
+
+rankdir=RL;
+
+"box3d"     [shape=box3d];
+"folder"    [shape=folder];
+"tab"       [shape=tab];
+"rect"      [shape=rect];
+"rectangle" [shape=rectangle];
+"septagon"  [shape=septagon];
+"plaintext" [shape=plaintext];
+"Msquare"   [shape=Msquare];
+"box"       [shape=box];
+"triangle"  [shape=triangle];
+"invhouse"  [shape=invhouse];
+"pentagon"  [shape=pentagon];
+"poligon"  [shape=poligon];
+"tripleoctagon"  [shape=tripleoctagon];
+"doublecircle"  [shape=doublecircle];
+"Mcircle"  [shape=Mcircle];
+"circle"  [shape=circle];
+"invtriangle"  [shape=invtriangle];
+"invtrapezium"  [shape=invtrapezium];
+"note"  [shape=note];
+"trapezium"  [shape=trapezium];
+"parallelogram"  [shape=parallelogram];
+"hexagon"  [shape=hexagon];
+"none"  [shape=none];
+"diamond"  [shape=diamond];
+"doubleoctagon"  [shape=doubleoctagon];
+"Mdiamond"  [shape=Mdiamond];
+"octagon"  [shape=octagon];
+"house"  [shape=house];
+"component"  [shape=component];
+"ellipse"  [shape=ellipse];
+"egg"  [shape=egg];
+"point"  [shape=point];
+}

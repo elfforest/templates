@@ -1,0 +1,7 @@
+digraph Node_style {
+    solid[style=solid]
+    dashed[style=dashed]
+    dotted[style=dotted]
+    bold[style=bold]
+    
+}

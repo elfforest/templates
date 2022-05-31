@@ -1,0 +1,10 @@
+digraph Arrow_Shapes{
+    a -> b[arrowhead=box label="box"]
+    a1 -> b1[arrowhead=crow label="crow"]
+    a2 -> b2[arrowhead=dot label="dot"]
+    a3 -> b3[arrowhead=diamond label="diamond"]
+    a4 -> b4[arrowhead=inv label="inv"]
+    a5 -> b5[arrowhead=none label="none"]
+    a6 -> b6[arrowhead=tee label="tee"]
+    a7 -> b7[arrowhead=vee label="vee"]
+}
